@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br><br>* 👋 I'm a second-year CSE undergraduate at SMVIT.<br>* 💻 I'm passionate about technology and actively learning new skills.<br>* 📚 Currently, I'm enhancing my skills in *frontend development*.<br>* 🚀 I know C, C++, Python, and JS, along with their libraries.<br>* 🤝 I'm open to collaboration and contributing to open-source projects.
+<br>* 👋 I'm a second-year CSE undergraduate at SMVIT.<br>* 💻 I'm passionate about technology and actively learning new skills.<br>* 📚 Currently, I'm enhancing my skills in *frontend development*.<br>* 🚀 I know C, C++, Python, and JS, along with their libraries.<br>* 🤝 I'm open to collaboration and contributing to open-source projects.
 
 
 ## 🌐 Socials:
